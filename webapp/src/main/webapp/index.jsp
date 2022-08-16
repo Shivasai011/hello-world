@@ -1,5 +1,3 @@
 Hello I'm Bogem shivasai.
-This is devops training.
-This task is automated build process.
-Task is using poll scm
-Now the task is webhooks
+This is Devops training
+Now the task is Continuous deliver..!
